@@ -1,1 +1,8 @@
 .env
+pycache/
+__pycache__/
+*.pyc
+venv/
+rf_model.pkl
+myenv
+Datasets
