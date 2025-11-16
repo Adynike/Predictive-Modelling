@@ -34,7 +34,6 @@ class Item(BaseModel):
                 "Supply_Capacity": 50000,
                 "Marketing_Spend": 500.0,
                 "Month": 1,
-                "Day": 15,
             }
         ]
     )
